@@ -33,7 +33,8 @@ GUI Overview
 Ticker Input Field: Where you can input a stock ticker (e.g., AAPL).
 Anomaly Threshold Slider: Adjust the sensitivity for detecting anomalies in options activity.
 Analyze Button: Starts the analysis process to detect unusual activity.
-Results Table: Displays detected anomalies with relevant options data.
+Results Table: Displays detected anomalies with relevant options data. ( IV stands for Implied Volatility )
+
 
 Notifications
 When unusual options activity is detected, the app will send a desktop notification with the number of anomalies found.
