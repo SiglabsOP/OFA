@@ -50,4 +50,5 @@ You can use it free of charge or build upon my code.
 (c) Peter De Ceuster 2024
 Software Distribution Notice: https://peterdeceuster.uk/doc/code-terms 
 This software is released under the FPA General Code License.
- 
+ ![Screenshot 2024-12-04 213037](https://github.com/user-attachments/assets/cad7bb91-d4d8-4374-b7ad-9ab052c840b2)
+
